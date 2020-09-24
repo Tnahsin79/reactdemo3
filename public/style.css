@@ -1,0 +1,18 @@
+.card-body{
+    text-align: left;
+}
+.container{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    margin-top: 2vw;
+}
+.card{
+    margin: 1vw;
+    border-radius: 10px;
+}
+.btn{
+    width: 100%;
+}
+.card-header{
+    margin: 1vw;
+}
